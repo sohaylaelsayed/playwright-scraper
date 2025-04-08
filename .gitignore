@@ -1,0 +1,30 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Python package files
+*.egg-info/
+build/
+dist/
+
+# Environment and config
+.env
+*.log
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints/
+
+# Playwright downloads (optional)
+playwright/.cache/
+
