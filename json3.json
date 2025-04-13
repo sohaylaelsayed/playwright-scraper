@@ -1,0 +1,162 @@
+[
+    {
+        "table_name": "Table 1",
+        "data": [
+            {
+                "College": "Arts and Sciences",
+                "Department": "Arabic Language (/ar/colleges/artssciences/departments/dept-arabic-language/)",
+                "Major": "Arabic Language (/en-us/colleges/artssciences/departments/dept-arabic-language/ba-arabic-language)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/colleges/cas/documents/planarabic.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Biological and Environmental Sciences (/en-us/colleges/artssciences/departments/bioenv)",
+                "Major": "Biological Sciences (/en-us/colleges/artssciences/departments/bioenv/programs/bsc-biologicalscience)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/colleges/cas/college%20departments%20and%20offices/biological%20and%20environmental%20sciences/documents/bsc%20biological%20science%20major.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Biological and Environmental Sciences (/en-us/colleges/artssciences/departments/bioenv)",
+                "Major": "Environmental Sciences (/en-us/colleges/artssciences/departments/bioenv/programs/bsc-envscience)",
+                "Credit Hours": "126 125",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/colleges/cas/college%20departments%20and%20offices/biological%20and%20environmental%20sciences/documents/bsc%20environmental%20science%20major.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Chemistry and Earth Sciences (/en-us/colleges/artssciences/departments/dept-chemistry)",
+                "Major": "Chemistry (/en-us/colleges/artssciences/departments/dept-chemistry/chemistry-program)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/students/documents/chemistry-major-study-plan.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "English Literature and Linguistics (/en-us/colleges/artssciences/departments/dell-home)",
+                "Major": "English Literature and Linguistics (/en-us/colleges/artssciences/departments/dell-home/english-major)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/students/documents/minor-in-english-study-plan.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Humanities (/en-us/colleges/artssciences/departments/humanities)",
+                "Major": "Fine Arts",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Humanities (/en-us/colleges/artssciences/departments/humanities)",
+                "Major": "History (/en-us/colleges/artssciences/departments/humanities/ba-history)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "International Affairs (/en-us/colleges/artssciences/departments/international-affairs)",
+                "Major": "International Affairs (/en-us/colleges/artssciences/departments/international-affairs/ba-int-affairs)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/colleges/cas/documents/b.a.%20in%20international%20affairs.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "International Affairs (/en-us/colleges/artssciences/departments/international-affairs)",
+                "Major": "Policy, Planning and Development (/en-us/colleges/artssciences/departments/international-affairs/ba-ppd)",
+                "Credit Hours": "120",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/colleges/cas/documents/b.a.%20in%20policy%20planning%20and%20development.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Mass Communication (/en-us/colleges/artssciences/departments/mass-comm)",
+                "Major": "Mass Communication (/en-us/colleges/artssciences/departments/mass-comm/ba-mass-comm)",
+                "Credit Hours": "126",
+                "Study Duration": "4 Years",
+                "Study Plan": "Download (/siteimages/static_file/qu/students/documents/mass-communication-study-plan-oct2021.pdf)"
+            }
+        ]
+    },
+    {
+        "table_name": "Table 2",
+        "data": [
+            {
+                "College": "Arts and Sciences",
+                "Department": "Arabic Language (/en-us/colleges/artssciences/departments/dept-arabic-language/about-us)",
+                "Minor": "Arabic Language",
+                "Credit Hours": null,
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Arabic Language (/en-us/colleges/artssciences/departments/dept-arabic-language/about-us)",
+                "Minor": "Turkish Language",
+                "Credit Hours": null,
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Biological and Environmental Sciences (/en-us/colleges/artssciences/departments/bioenv)",
+                "Minor": "Biological Sciences (/en-us/colleges/artssciences/departments/bioenv/programs/bsc-biologicalscience)",
+                "Credit Hours": "18",
+                "Study Plan": "Download (/en-us/colleges/artssciences/departments/bioenv/programs/bsc-biologicalscience)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Chemistry and Earth Sciences (/en-us/colleges/artssciences/departments/dept-chemistry)",
+                "Minor": "Chemistry (/en-us/colleges/artssciences/departments/dept-chemistry/minor-chemistry)",
+                "Credit Hours": "18",
+                "Study Plan": "Download (/en-us/colleges/artssciences/departments/dept-chemistry/minor-chemistry)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Chemistry and Earth Sciences (/en-us/colleges/artssciences/departments/dept-chemistry)",
+                "Minor": "Geology (/en-us/colleges/artssciences/departments/dept-chemistry/minor-geology)",
+                "Credit Hours": "18",
+                "Study Plan": "Download (/en-us/colleges/artssciences/departments/dept-chemistry/minor-geology)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "English Literature and Linguistics (/en-us/colleges/artssciences/departments/dell-home/)",
+                "Minor": "English Language (/en-us/colleges/artssciences/departments/dell-home/minor-programs)",
+                "Credit Hours": "24",
+                "Study Plan": "Download (/siteimages/static_file/qu/students/documents/minor-in-english-study-plan.pdf)"
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "English Literature and Linguistics (/en-us/colleges/artssciences/departments/dell-home/)",
+                "Minor": "French Language (/en-us/colleges/artssciences/departments/dell-home/minor-programs)",
+                "Credit Hours": "24",
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "English Literature and Linguistics (/en-us/colleges/artssciences/departments/dell-home/)",
+                "Minor": "Spanish Language (/en-us/colleges/artssciences/departments/dell-home/minor-programs)",
+                "Credit Hours": "24",
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "English Literature and Linguistics (/en-us/colleges/artssciences/departments/dell-home/)",
+                "Minor": "Translation (/en-us/colleges/artssciences/departments/dell-home/minor-programs)",
+                "Credit Hours": "24",
+                "Study Plan": null
+            },
+            {
+                "College": "Arts and Sciences",
+                "Department": "Humanities (/en-us/colleges/artssciences/departments/humanities)",
+                "Minor": "History (/en-us/colleges/artssciences/departments/humanities/minor-history)",
+                "Credit Hours": "24",
+                "Study Plan": "Download (/en-us/colleges/artssciences/departments/humanities/minor-history)"
+            }
+        ]
+    }
+]

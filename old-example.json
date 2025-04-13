@@ -1,0 +1,72 @@
+[
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "Arabic\n                                            Language",
+      "major": "Arabic\n                                            Language",
+      "credit_hours": "120",
+      "study_duration": "4 Years",
+      "study_plan_link": "https://www.qu.edu.qa/siteimages/static_file/qu/colleges/cas/documents/planarabic.pdf",
+      "details": ""
+    },
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "Biological and\n                                            Environmental\n                                            Sciences",
+      "major": "Biological\n                                            Sciences",
+      "credit_hours": "120",
+      "study_duration": "4 Years",
+      "study_plan_link": "https://www.qu.edu.qa/siteimages/static_file/qu/colleges/cas/college%20departments%20and%20offices/biological%20and%20environmental%20sciences/documents/bsc%20biological%20science%20major.pdf",
+      "details": ""
+    },
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "Biological and\n                                            Environmental\n                                            Sciences",
+      "major": "Environmental\n                                            Sciences",
+      "credit_hours": "126 125",
+      "study_duration": "4 Years",
+      "study_plan_link": "https://www.qu.edu.qa/siteimages/static_file/qu/colleges/cas/college%20departments%20and%20offices/biological%20and%20environmental%20sciences/documents/bsc%20environmental%20science%20major.pdf",
+      "details": ""
+    },
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "Chemistry and\n                                            Earth\n                                            Sciences",
+      "major": "Chemistry",
+      "credit_hours": "120",
+      "study_duration": "4 Years",
+      "study_plan_link": "https://www.qu.edu.qa/siteimages/static_file/qu/students/documents/chemistry-major-study-plan.pdf",
+      "details": ""
+    },
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "English\n                                            Literature and\n                                            Linguistics",
+      "major": "English\n                                            Literature\n                                            and Linguistics",
+      "credit_hours": "120",
+      "study_duration": "4 Years",
+      "study_plan_link": "https://www.qu.edu.qa/siteimages/static_file/qu/students/documents/minor-in-english-study-plan.pdf",
+      "details": ""
+    },
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "Humanities",
+      "major": "Fine Arts",
+      "credit_hours": "120",
+      "study_duration": "4 Years",
+      "study_plan_link": null,
+      "details": ""
+    },
+    {
+      "type": "Major",
+      "college": "Arts and Sciences",
+      "department": "Humanities",
+      "major": "History",
+      "credit_hours": "120",
+      "study_duration": "4 Years",
+      "study_plan_link": "https://www.qu.edu.qa/en-us/colleges/artssciences/departments/humanities/ba-history",
+      "details": ""
+    }
+  ]

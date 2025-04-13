@@ -8,7 +8,7 @@ def scrape_expanding_table(url):
 
         # Step 1: Click to expand the table (adjust selector as needed)
         try:
-            page.click("text='Expand Table'")  # OR button selector like "button.expand-btn"
+            page.click("text='Expand Table'")  # Adjust selector if needed
             page.wait_for_timeout(2000)  # wait for content to expand
         except Exception as e:
             print("Expand button not found or not clickable:", e)
@@ -19,17 +19,29 @@ def scrape_expanding_table(url):
         table_data = []
         for row in rows:
             cells = row.query_selector_all("th, td")
-            cell_texts = [cell.inner_text().strip() for cell in cells]
-            if cell_texts:
-                table_data.append(cell_texts)
+            cell_contents = []
+
+            for cell in cells:
+                # Check for a link inside the cell
+                link = cell.query_selector("a")
+                if link:
+                    text = link.inner_text().strip()
+                    href = link.get_attribute("href")
+                    cell_contents.append(f"{text} ({href})")
+                else:
+                    text = cell.inner_text().strip()
+                    cell_contents.append(text)
+
+            if cell_contents:
+                table_data.append(cell_contents)
 
         # Step 3: Print or save
         for row in table_data:
             print(row)
 
-        # Optional: save to CSV
+        # Optional: Save to CSV
         import csv
-        with open("table_data.csv", "w", newline="", encoding="utf-8") as f:
+        with open("table_data2.csv", "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
             writer.writerows(table_data)
 
